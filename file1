@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is file 1 created for testing. No edit in line1
+=======
+This is file 1 created for testing.This is added for merge testing.
+
+This is second line created with the help of test1 branch
+>>>>>>> 879cf62 (Made changes to file 1 for testing)
